@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "25bd156b1bb09cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
+            "id": "0d1efa71025111e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Diemen vogelnetwerk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "0d1efa71025111e0",
   "lastOpenFiles": [
-    "index.md",
+    "Untitled.canvas",
+    "2025-03-27.md",
     "category-folder/Diemen vogelnetwerk.md",
+    "Digitaalplakboek.md",
     "category-folder/index.md",
     "category-folder"
   ]
