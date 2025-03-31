@@ -25,12 +25,14 @@
             "id": "158314caac76483d",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Vogels/Filmpjes en fotos van vogels/egyptische ganzen kuikens scp 22-04-25.mp4"
+                "file": "Vogels/Diemen vogelnetwerk.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "egyptische ganzen kuikens scp 22-04-25"
+              "title": "Diemen vogelnetwerk"
             }
           },
           {
@@ -198,11 +200,13 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "index.md",
+    "Vogels/Filmpjes en fotos van vogels/egyptische ganzen kuikens scp 22-04-25.mp4",
     "Vogels/Filmpjes en fotos van vogels/Filmpjes en fotos van vogels.md",
     "Vogels/Diemen vogelnetwerk.md",
-    "index.md",
+    "Philosophy/Recent Debates in Moral Philosophy",
+    "Philosophy",
     "Vogels/index.md",
-    "Vogels/Filmpjes en fotos van vogels/egyptische ganzen kuikens scp 22-04-25.mp4",
     "Logica ofzo/Untitled.md",
     "Logica ofzo",
     "Vogels/Filmpjes en fotos van vogels",
