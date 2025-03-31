@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ###### Verse vogel waarnemingen in mijn omgeving (schoonheid){nabijheid}(hoeveelheid) [wikipedia](https://nl.wikipedia.org/wiki/Vogels) 
 
 - meerkoet (7){1}(veel) [wikipedia](https://nl.wikipedia.org/wiki/Meerkoet)

@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "158314caac76483d",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Vogels/Filmpjes en fotos van vogels/egyptische ganzen kuikens scp 22-04-25.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "egyptische ganzen kuikens scp 22-04-25"
+            }
+          },
+          {
             "id": "249efc339ed6a113",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Filmpjes en fotos van vogels"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,11 +198,13 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Vogels/Diemen vogelnetwerk.md",
-    "Vogels/Filmpjes en fotos van vogels/egyptische ganzen kuikens scp 22-04-25.mp4",
     "Vogels/Filmpjes en fotos van vogels/Filmpjes en fotos van vogels.md",
-    "Vogels/index.md",
+    "Vogels/Diemen vogelnetwerk.md",
     "index.md",
+    "Vogels/index.md",
+    "Vogels/Filmpjes en fotos van vogels/egyptische ganzen kuikens scp 22-04-25.mp4",
+    "Logica ofzo/Untitled.md",
+    "Logica ofzo",
     "Vogels/Filmpjes en fotos van vogels",
     "Untitled.canvas",
     "2025-03-27.md",
